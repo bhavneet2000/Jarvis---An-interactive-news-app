@@ -21,6 +21,18 @@ export default makeStyles({
         flexDirection: 'column',
         textAlign: 'center',
 
-    }
+    },
+    card2: {
+        textAlign: 'center',
+        backgroundColor: '#f50057',
+        color: 'white',
+        alignItems: 'center',
+        width: '25%',
+        borderRadius: 100,
+        margin: '0 12px',
+        display: 'flex',
+        justifyContent: 'center',
+        height: '30vmin',
+    },
 });
 
