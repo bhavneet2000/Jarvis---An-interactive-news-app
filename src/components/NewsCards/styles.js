@@ -28,7 +28,7 @@ export default makeStyles({
         color: 'white',
         alignItems: 'center',
         width: '25%',
-        borderRadius: 100,
+        borderRadius: 75,
         margin: '0 12px',
         display: 'flex',
         justifyContent: 'center',
